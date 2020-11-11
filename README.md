@@ -1,8 +1,5 @@
-# Salgados-
-
+# Salgados
 <html>
-<head>
-<title> Meu projeto</title>
 </head>
 </html>
 <!DOCTYPE html>
